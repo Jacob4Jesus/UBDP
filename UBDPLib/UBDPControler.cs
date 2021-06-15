@@ -18,7 +18,7 @@ namespace UBDPLib
             {
                 var result = client.UploadString(
                     "https://api.eosflare.io/v1/eosflare/get_account"
-                    , "{\"account\":\"eosflareiobp\"}"
+                    , "{\"account\":\"i2cfccxs4mkt\"}"
                     );
                 if (result != null)
                 {
